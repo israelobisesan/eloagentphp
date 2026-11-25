@@ -1,0 +1,9 @@
+.git
+fb_profile
+*.db
+*.db-journal
+*.db-wal
+*.pid
+temp_post_image.jpg
+static/wa_live.png
+static/wa_status.json

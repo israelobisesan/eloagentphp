@@ -1,0 +1,13 @@
+# Persistent browser profile (stores WhatsApp Web session)
+fb_profile/
+
+# Local SQLite databases & temporary runtime artifacts
+*.db
+*.db-journal
+*.db-wal
+*.pid
+temp_post_image.jpg
+static/wa_live.png
+static/wa_status.json
+static/uploads/*
+!static/uploads/.gitkeep
